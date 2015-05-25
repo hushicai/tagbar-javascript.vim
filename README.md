@@ -17,3 +17,12 @@ Plugin 'tagbar-javascript.vim'
 ```
 
 Now, enjoy it.
+
+## Screenshots
+
+![](./screenshots/1.png)
+
+## TODO
+
+* constructor?
+* prototype?
