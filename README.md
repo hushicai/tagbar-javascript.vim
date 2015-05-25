@@ -1,6 +1,6 @@
 # tagbar-javascript.vim
 
-javascript ctags for tagbar.
+javascript tags for tagbar.
 
 ## Usage
 
