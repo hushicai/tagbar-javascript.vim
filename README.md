@@ -13,7 +13,7 @@ npm install -g esctags
 Then, install `tagbar-javascript.vim` with vundle:
 
 ```vim
-Plugin `tagbar-javascript.vim`
+Plugin 'tagbar-javascript.vim'
 ```
 
 Now, enjoy it.
