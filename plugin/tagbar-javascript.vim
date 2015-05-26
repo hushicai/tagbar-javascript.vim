@@ -14,15 +14,14 @@ let g:tagbar_type_javascript = {
         \ 'v:Variables:0:0',
         \ 'f:Functions:1',
         \ 'p:Propertes:0:0',
-        \ 'n:Namespaces:1:0'
+        \ 'n:Namespaces:1:0',
+        \ 'c:Context:1:0'
     \ ],
     \ 'sro'        : '::',
     \ 'kind2scope' : {
-        \ 'f' : 'function',
-        \ 'n' : 'namespace'
+        \ 'c' : 'context',
     \ },
     \ 'scope2kind' : {
-        \ 'function'  : 'f',
-        \ 'namespace' : 'n'
+        \ 'context'  : 'c'
     \ }
 \ }
