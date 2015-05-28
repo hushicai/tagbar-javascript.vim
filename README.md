@@ -20,4 +20,14 @@ Now, enjoy it.
 
 ## Screenshots
 
-![](./screenshots/1.png)
+### Simple
+
+![](./screenshots/simple.png)
+
+### amdjs
+
+![](./screenshots/amd.png)
+
+### nodejs
+
+![](path "pic title")
