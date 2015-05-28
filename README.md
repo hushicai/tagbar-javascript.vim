@@ -30,4 +30,4 @@ Now, enjoy it.
 
 ### nodejs
 
-![](path "pic title")
+![](./screenshots/nodejs.png)
